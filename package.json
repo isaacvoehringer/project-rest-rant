@@ -8,9 +8,19 @@
   "author": "",
   "license": "ISC",
   "keywords": [],
-  "description": "",
+  "description": "REST-Rant is an app where users can review restaurants.",
   "dependencies": {
     "dotenv": "^16.0.2",
-    "express": "^4.18.1"
-  }
+    "express": "^4.18.1",
+    "express-react-views": "^0.11.0",
+    "react": "^18.2.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/isaacvoehringer/project-rest-rant.git"
+  },
+  "bugs": {
+    "url": "https://github.com/isaacvoehringer/project-rest-rant/issues"
+  },
+  "homepage": "https://github.com/isaacvoehringer/project-rest-rant#readme"
 }
