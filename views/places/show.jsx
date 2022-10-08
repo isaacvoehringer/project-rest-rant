@@ -18,7 +18,7 @@ function show (data) {
                 <p> Serving {data.place.cuisines}</p>
    
                 </div>
-                
+        
                 <h2>Comments</h2>
                     no comments yet
                   <div>  
@@ -28,7 +28,7 @@ function show (data) {
            
             <form method='POST' action={`/places/${data.id}?_method=DELETE`}> 
                 <button type="submit" className="btn btn-danger">
-                <i class="bi bi-trash"></i>Delete
+                <i className="bi bi-trash"></i>Delete
                 </button>
             </form>     
 
