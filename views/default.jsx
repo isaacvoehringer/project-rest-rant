@@ -15,7 +15,7 @@ function Def (html) {
       crossOrigin="anonymous"/>            
             </head>
             <body>
-                <nav className="navbar bg-dark fixed-top flex-shrink-0">
+                <nav className="navbar bg-dark flex-shrink-0">
                     <ul className='container text-center'>
                         <li>
                             <a  href='/'>Home</a>

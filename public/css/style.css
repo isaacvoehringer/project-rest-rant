@@ -4,7 +4,7 @@ h1 {
   }
 
 img {
-  margin: 50px;
+  margin: 10px;
   width: 40vw;
 }
 
@@ -49,4 +49,8 @@ main {
 body {
   background: #007bff;
   background: linear-gradient(to right, #0062E6, #33AEFF);
+}
+
+h2 {
+  color: rgb(93, 202, 202);
 }
